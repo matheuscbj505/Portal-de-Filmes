@@ -1,0 +1,16 @@
+body {
+    font-family: arial;
+}
+
+.box-noticia {
+    margin-top: 10px;
+    color: dimgray;
+}
+
+.box-noticia .titulo {
+    font-weight: 700;
+}
+
+.box-noticia .text {
+
+}
