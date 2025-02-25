@@ -8,7 +8,7 @@ Interface de uma plataforma simples para explorar filmes populares, lançamentos
 
 🛠️ Tecnologias Usadas
 HTML, CSS, JavaScript
-Bootstrap (ou qualquer framework utilizado)
+Bootstrap 
 
 📦 Como Rodar o Projeto
 
